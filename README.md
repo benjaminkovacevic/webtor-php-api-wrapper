@@ -6,7 +6,7 @@ The code is a wrapper for the webtor.io API. It allows you to get the resource i
 It also has some additional functions that are not part of the API, such as checking whether a torrent contains video content and finding subtitles in a torrent.
 
 Usage example:
-```
+```php
 <?php
 	require 'webtor-class.php';
 	$webtor = new webtor();
