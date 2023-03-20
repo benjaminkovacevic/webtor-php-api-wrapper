@@ -1,7 +1,4 @@
 <?php
-	// PHP WRAPPER FOR WEBTOR.IO OFFICIAL API
-	// https://rapidapi.com/paveltatarsky-Dx4aX7s_XBt/api/webtor/ 
-
 	class webtor {
 
 		// Rapid API Key which is given upon subscription to rapidapi.com
